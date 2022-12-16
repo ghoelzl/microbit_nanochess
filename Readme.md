@@ -1,4 +1,4 @@
-# Toledo Nanochess on micro:bit
+# Toledo Nanochess on BBC micro:bit
 
 ## Introduction
 Some years ago I had the idea of implementing a chess program on the BBC micro:bit (https://microbit.org) since 
