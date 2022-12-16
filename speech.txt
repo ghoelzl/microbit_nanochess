@@ -1,0 +1,12 @@
+Hi, this is a demo of the Microbit nanochess and I will let it play against a training bot of chess.com
+After starting Nanochess on the Microbit we are informed that white is to move.
+By just pressing the 'B' button we choose, that Nanochess should calculate the next move for white.
+After some seconds the calculated move is ready: The pawn moves from C2 to C4.
+Now it is black's turn. 
+As you can see in the browser window, black moved its pawn from C7 to C6. 
+We enter the movement just with the 'A' and 'B' buttons: 'A' toggles between the characters or numbers and 'B' is for confirmation, like the Enter key on a keyboard.
+After that the microbit confirms black's move.
+And the procedure repeats itself.
+Nanochess also checks the input. If you enter an illegal move, you will be prompted to make a new entry.
+And here is the final move: Our Queen moves from B7 to G7 and black is checkmate.
+But what happens if you enter an illegal move?
