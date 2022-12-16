@@ -15,7 +15,7 @@ a simple user interface for being completely independent.
 ## Demo
 You can find a demo of the program at https://www.youtube.com/watch?v=Vc_DAjjW53I.
 
-## Upload to the micro:bit
+## Upload to the BBC micro:bit
 The "one minute solution" for uploading the executable binary to the micro:bit is to drag and drop the file ``microbit-nanochess.hex`` to the micro:bit. The hex file was retrieved with the *uBitTool* from https://github.com/carlosperate/ubittool/releases. Since I don't own a micro:bit v2 I can't promise whether this method works there. If you want to do further development you have to install the Arduino IDE (https://www.arduino.cc/en/software) and micro:bit libraries from *adafruit*, documented at https://learn.adafruit.com/use-micro-bit-with-arduino. Just open the ``microbit_nanochess.ino``file and push the ``Upload`` Button.
 
 ## Usage
